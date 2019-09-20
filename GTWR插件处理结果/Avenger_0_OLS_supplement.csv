@@ -1,0 +1,11 @@
+﻿1,AICc,776.523846093738, 
+2,R2,0.7645594658673, 
+3,RSS,8596.99095669604, 
+4,Dependent Field,0,PM2_5_ACCU, 
+5,Explanatory Field,1,AOD
+6,Explanatory Field,2,Sta_Temper
+7,Explanatory Field,3,Sta_Humidi
+8,Explanatory Field,4,Sta_Air_pr
+9,Explanatory Field,5,Sta_Wind_s
+10,Explanatory Field,6,Sta_Wind_d
+11,Explanatory Field,7,Sta_NDVI

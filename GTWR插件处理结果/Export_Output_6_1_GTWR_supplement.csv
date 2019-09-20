@@ -1,0 +1,16 @@
+1,Bandwidth,0.339967,
+2,ResidualSquares,4803.07,
+3,Sigma,7.5171,
+4,AICc,636.953,
+5,R2,0.821048,
+6,R2Adjusted,0.804779,
+7,Spatio-temporal Distance Ratio,0.7149,
+8,Trace_of_SMatrix,18.6197,
+9,Dependent Field,0,PM2_5_ACCU
+10,Explanatory Field,1,AOD
+11,Explanatory Field,2,Sta_Temper
+12,Explanatory Field,3,Sta_Humidi
+13,Explanatory Field,4,Sta_Air_pr
+14,Explanatory Field,5,Sta_Wind_s
+15,Explanatory Field,6,Sta_Wind_d
+16,Explanatory Field,7,Sta_NDVI

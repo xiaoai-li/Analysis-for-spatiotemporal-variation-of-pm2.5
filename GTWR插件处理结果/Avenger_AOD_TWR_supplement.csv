@@ -1,0 +1,9 @@
+1,Bandwidth,0.41765,
+2,ResidualSquares,11993.7,
+3,Sigma,10.6876,
+4,AICc,807.133,
+5,R2,0.674687,
+6,R2Adjusted,0.671528,
+7,Trace_of_SMatrix,4.01663,
+8,Dependent Field,0,PM2_5_ACCU
+9,Explanatory Field,1,AOD
